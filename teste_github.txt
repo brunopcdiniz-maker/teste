@@ -62,7 +62,7 @@
   "data": "2025-08-27",
   "codigo_conta_corretora": "594",
   "nome_cliente_corretora": "beatriz asdkjaskdj",
-  "data_de_aplicacao": None,
+  "data_de_aplicacao": null,
   "quantidade": 1500.7328,
   "pu_curva": 1.0852299,
   "valor_liquido": 1626.5201065,
@@ -282,7 +282,7 @@
   "data": "2025-08-27",
   "codigo_conta_corretora": "594",
   "nome_cliente_corretora": "beatriz asdkjaskdj",
-  "data_de_aplicacao": None,
+  "data_de_aplicacao": null,
   "quantidade": 1.0,
   "pu_curva": 88.35,
   "valor_liquido": 88.35,
@@ -427,5 +427,4 @@
   "pu_curva": 1032.591955,
   "valor_liquido": 16521.47128,
   "valor_bruto": 16521.47128,
-
   "taxa_curva": 0.055}]
