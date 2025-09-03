@@ -2,7 +2,7 @@
   {
     "id": 33907563,
     "data": "2025-08-27",
-    "codigo_conta_corretora": "594",
+    "codigo_conta_corretora": "6540",
     "nome_cliente_corretora": "beatriz asdkjaskdj",
     "data_de_aplicacao": "2025-01-16",
     "quantidade": 24.0,
@@ -17,7 +17,7 @@
   {
     "id": 33907553,
     "data": "2025-08-27",
-    "codigo_conta_corretora": "594",
+    "codigo_conta_corretora": "6540",
     "nome_cliente_corretora": "beatriz asdkjaskdj",
     "data_de_aplicacao": "2024-10-15",
     "quantidade": 9.0,
@@ -32,7 +32,7 @@
   {
     "id": 33907571,
     "data": "2025-08-27",
-    "codigo_conta_corretora": "594",
+    "codigo_conta_corretora": "6540",
     "nome_cliente_corretora": "beatriz asdkjaskdj",
     "data_de_aplicacao": "2024-10-31",
     "quantidade": 13.0,
@@ -77,8 +77,8 @@
   {
     "id": 33907532,
     "data": "2025-08-27",
-    "codigo_conta_corretora": "594",
-    "nome_cliente_corretora": "beatriz asdkjaskdj",
+    "codigo_conta_corretora": "124",
+    "nome_cliente_corretora": "bruno tesazlsk",
     "data_de_aplicacao": "2025-07-31",
     "quantidade": 27.0,
     "pu_curva": 1012.1033222,
@@ -92,8 +92,8 @@
   {
     "id": 33907524,
     "data": "2025-08-27",
-    "codigo_conta_corretora": "594",
-    "nome_cliente_corretora": "beatriz asdkjaskdj",
+    "codigo_conta_corretora": "124",
+    "nome_cliente_corretora": "bruno tesazlsk",
     "data_de_aplicacao": null,
     "quantidade": 1500.7328,
     "pu_curva": 1.0852299,
@@ -645,3 +645,4 @@
     "produto": "Outros"
   }
 ]
+
