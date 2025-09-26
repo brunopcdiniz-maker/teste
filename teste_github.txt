@@ -1,65 +1,78 @@
 [
 {
+"id": 1,
 "titulo": "Juros em queda, prazos em alta",
 "subtitulo": "Como alongar duration sem perder o sono.",
 "data": "Setembro, 2024"
 },
 {
+"id": 2,
 "titulo": "IPCA no radar",
 "subtitulo": "Proteção real em tempos de transição de ciclo.",
 "data": "Outubro, 2024"
 },
 {
+"id": 3,
 "titulo": "O prêmio do carrego",
 "subtitulo": "Por que a paciência ainda paga no crédito privado.",
 "data": "Novembro, 2024"
 },
 {
+"id": 4,
 "titulo": "Virada de ano, virada de curva",
 "subtitulo": "O que esperar da ETTJ em 2025.",
 "data": "Dezembro, 2024"
 },
 {
+"id": 5,
 "titulo": "Janela de marcação a mercado",
 "subtitulo": "Ganhos antecipados quando os juros cedem.",
 "data": "Janeiro, 2025"
 },
 {
+"id": 6,
 "titulo": "CDI não é sinônimo de segurança",
 "subtitulo": "Risco, liquidez e o custo de oportunidade.",
 "data": "Fevereiro, 2025"
 },
 {
+"id": 7,
 "titulo": "Tesouro IPCA+: travar hoje, colher amanhã",
 "subtitulo": "Estratégias de renda real para 10+ anos.",
 "data": "Março, 2025"
 },
 {
+"id": 8,
 "titulo": "Spread não é tudo",
 "subtitulo": "Qualidade de crédito antes de taxa aparente.",
 "data": "Abril, 2025"
 },
 {
+"id": 9,
 "titulo": "Carteiras antifragilidade",
 "subtitulo": "Como combinar CDI, IPCA+ e caixa tático.",
 "data": "Maio, 2025"
 },
 {
+"id": 10,
 "titulo": "Durations que conversam",
 "subtitulo": "Casando prazos de ativos e objetivos.",
 "data": "Junho, 2025"
 },
 {
+"id": 11,
 "titulo": "A arte de realizar",
 "subtitulo": "Quando faz sentido vender antes do vencimento.",
 "data": "Julho, 2025"
 },
 {
+"id": 12,
 "titulo": "Liquidez que conforta, mas custa",
 "subtitulo": "O equilíbrio entre reserva e retorno.",
 "data": "Agosto, 2025"
 },
 {
+"id": 13,
 "titulo": "Liquidez: segurança ou custo invisível?",
 "subtitulo": "Por que excesso de liquidez pode ser uma armadilha silenciosa.",
 "data": "Setembro, 2025"
