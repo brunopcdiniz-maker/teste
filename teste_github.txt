@@ -64,142 +64,143 @@
   },
   {
     "id": 10,
-    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/10.jpg",
+    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/10.jpeg",
     "referencia": "Março, 2024",
     "titulo": "Lei dos mercados",
     "subtitulo": "Olhando para o futuro."
   },
   {
     "id": 11,
-    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/11.jpg",
+    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/11.jpeg",
     "referencia": "Abril, 2024",
     "titulo": "Inflação americana e os impactos no juro brasileiro",
     "subtitulo": "Selic limitada, dólar forte."
   },
   {
     "id": 12,
-    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/12.jpg",
+    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/12.png",
     "referencia": "Maio, 2024",
     "titulo": "Manutenção de estratégia",
     "subtitulo": "Spread de crédito nas mínimas."
   },
   {
     "id": 13,
-    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/13.jpg",
+    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/13.png",
     "referencia": "Junho, 2024",
     "titulo": "Mesma Taxa, Ingredientes Diferentes",
     "subtitulo": "Spreads baixos, cautela alta."
   },
   {
     "id": 14,
-    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/14.jpg",
+    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/14.png",
     "referencia": "Julho, 2024",
     "titulo": "Selic Estável, Mercado Agitado",
     "subtitulo": "Spread fecha e a prudência segue."
   },
   {
     "id": 15,
-    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/15.jpg",
+    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/15.jpeg",
     "referencia": "Agosto, 2024",
     "titulo": " \"A rising tide lifts all boats\"",
     "subtitulo": "Expectativas de corte de juros nos EUA valorizam ativos no Brasil."
   },
   {
     "id": 16,
-    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/16.jpg",
+    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/16.jpeg",
     "referencia": "Setembro, 2024",
     "titulo": "Em sentidos opostos",
     "subtitulo": "Provável aumento do diferencial de juros entre Brasil x EUA."
   },
   {
     "id": 17,
-    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/17.jpg",
+    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/17.jpeg",
     "referencia": "Outubro, 2024",
     "titulo": "Além do óbvio",
     "subtitulo": "Garimpando ativos em um cenário de spreads reduzidos."
   },
   {
     "id": 18,
-    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/18.jpg",
+    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/18.jpeg",
     "referencia": "Novembro, 2024",
     "titulo": "Aguardando o pacote de corte de gastos",
     "subtitulo": "Juros em alta, prudência na duration."
   },
   {
     "id": 19,
-    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/19.jpg",
+    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/19.jpeg",
     "referencia": "Dezembro, 2024",
     "titulo": "Leve mudança de estratégia",
     "subtitulo": "Se aproveitando dos preços de mercado."
   },
   {
     "id": 20,
-    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/20.jpg",
+    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/20.jpeg",
     "referencia": "Janeiro, 2025",
     "titulo": "Retrospectiva 2024",
     "subtitulo": "Premiando os mais céticos."
   },
   {
     "id": 21,
-    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/21.jpg",
+    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/21.jpeg",
     "referencia": "Fevereiro, 2025",
     "titulo": "Estratégias em renda fixa",
     "subtitulo": "Gestão ativa e leitura de mercado."
   },
   {
     "id": 22,
-    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/22.jpg",
+    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/22.jpeg",
     "referencia": "Março, 2025",
     "titulo": "O Gross Up e sua relevância no cenário atual.",
     "subtitulo": "Comparando ativos e tributáveis isentos da forma correta."
   },
   {
     "id": 23,
-    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/23.jpg",
+    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/23.jpeg",
     "referencia": "Abril, 2025",
     "titulo": "Entre Emoção e Estratégia",
     "subtitulo": "O investidor no Centro das Decisões."
   },
   {
     "id": 24,
-    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/24.jpg",
+    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/24.jpeg",
     "referencia": "Maio, 2025",
     "titulo": "Nem sempre esperar é a melhor decisão",
     "subtitulo": "Por que a carteira já reflete o cenário de queda dos juros."
   },
   {
     "id": 25,
-    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/25.jpg",
+    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/25.jpeg",
     "referencia": "Junho, 2025",
     "titulo": "O paradoxo do bom momento",
     "subtitulo": "Grandes oportunidades não aparecem no conforto."
   },
   {
     "id": 26,
-    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/26.jpg",
+    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/26.jpeg",
     "referencia": "Julho, 2025",
     "titulo": "O poder silencioso dos juros reais compostos",
     "subtitulo": "Como o tempo transforma disciplina em liberdade financeira."
   },
   {
     "id": 27,
-    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/27.jpg",
+    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/27.jpeg",
     "referencia": "Agosto, 2025",
     "titulo": "Vale a pena dolarizar agora?",
     "subtitulo": "O custo invisível de trocar renda real por incerteza."
   },
   {
     "id": 28,
-    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/28.jpg",
+    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/28.jpeg",
     "referencia": "Setembro, 2025",
     "titulo": "Liquidez: segurança ou custo invisível?",
     "subtitulo": "Por que excesso de liquidez pode ser uma armadilha silenciosa."
   },
   {
     "id": 29,
-    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/29.jpg",
+    "imagem": "https://imagem-cartas.s3.us-east-1.amazonaws.com/principal/29.jpeg",
     "referencia": "Outubro, 2025",
     "titulo": "Títulos privados: seletividade que vira renda",
     "subtitulo": "Nem toda taxa alta é oportunidade, e nem toda taxa menor deixou de ser."
   }
 ]
+
