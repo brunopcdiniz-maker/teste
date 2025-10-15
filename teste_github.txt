@@ -1,205 +1,205 @@
 [
   {
     "id": 1,
-    "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1703006996699x818957051912557300/voo%20p%26b.jpg",
-    "referencia": "Novembro, 2023",
-    "subtitulo": "Emergentes podem se beneficiar, mas cenário ainda demanda cautela.",
-    "titulo": "\"Pouso suave\" dita o tom dos mercados"
+    "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1704466879429x896641495487577600/junho.jpg",
+    "referencia": "Junho, 2023",
+    "titulo": "Colhendo os frutos da estratégia",
+    "subtitulo": "Taxas para baixo, preços para cima."
   },
   {
     "id": 2,
-    "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1703007051938x697550726383746200/focos%20p%26b.jpg",
-    "referencia": "Setembro, 2023",
-    "subtitulo": "Como as atenções podem se voltar das projeções de inflação para o Fiscal.",
-    "titulo": "Troca de foco"
+    "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1704466428191x983061422265185400/julho.jpg",
+    "referencia": "Julho, 2023",
+    "titulo": "IPCA em queda, porém...",
+    "subtitulo": "Como os núcleos da inflação impactam as decisões do BACEN."
   },
   {
     "id": 3,
-    "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1703007026596x649956421367340200/compensatorios%20p%26b.jpg",
-    "referencia": "Outubro, 2023",
-    "subtitulo": "Como o crédito privado apresentou menor volume do que o Tesouro nos últimos 30 dias?",
-    "titulo": "Efeitos compensatórios"
+    "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1704465970245x586234727610465400/agosto.jpg",
+    "referencia": "Agosto, 2023",
+    "titulo": "Pé no acelerador ou pé no chão?",
+    "subtitulo": "Os riscos para a continuidade do cenário benigno que se desenrolou nos últimos meses."
   },
   {
     "id": 4,
-    "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1703006961674x955715351304313700/luneta%20p%26b.jpg",
-    "referencia": "Dezembro, 2023",
-    "subtitulo": "E o que esperar para 2024 na Renda Fixa",
-    "titulo": "Retrospectiva 2023"
+    "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1703007051938x697550726383746200/focos%20p%26b.jpg",
+    "referencia": "Setembro, 2023",
+    "titulo": "Troca de foco",
+    "subtitulo": "Como as atenções podem se voltar das projeções de inflação para o Fiscal."
   },
   {
     "id": 5,
-    "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1704465970245x586234727610465400/agosto.jpg",
-    "referencia": "Agosto, 2023",
-    "subtitulo": "Os riscos para a continuidade do cenário benigno que se desenrolou nos últimos meses.",
-    "titulo": "Pé no acelerador ou pé no chão?"
+    "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1703007026596x649956421367340200/compensatorios%20p%26b.jpg",
+    "referencia": "Outubro, 2023",
+    "titulo": "Efeitos compensatórios",
+    "subtitulo": "Como o crédito privado apresentou menor volume do que o Tesouro nos últimos 30 dias?"
   },
   {
     "id": 6,
-    "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1704466428191x983061422265185400/julho.jpg",
-    "referencia": "Julho, 2023",
-    "subtitulo": "Como os núcleos da inflação impactam as decisões do BACEN",
-    "titulo": "IPCA em queda, porém..."
+    "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1703006996699x818957051912557300/voo%20p%26b.jpg",
+    "referencia": "Novembro, 2023",
+    "titulo": "\"Pouso suave\" dita o tom dos mercados",
+    "subtitulo": "Emergentes podem se beneficiar, mas cenário ainda demanda cautela."
   },
   {
     "id": 7,
-    "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1704466879429x896641495487577600/junho.jpg",
-    "referencia": "Junho, 2023",
-    "subtitulo": "Taxas para baixo, preços para cima",
-    "titulo": "Colhendo os frutos da estratégia"
+    "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1703006961674x955715351304313700/luneta%20p%26b.jpg",
+    "referencia": "Dezembro, 2023",
+    "titulo": "Retrospectiva 2023",
+    "subtitulo": "E o que esperar para 2024 na Renda Fixa."
   },
   {
     "id": 8,
     "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1705949242640x952520040304771700/janeiro%2024.jpg",
     "referencia": "Janeiro, 2024",
-    "subtitulo": "... sob a ótica da marcação na curva e à mercado.",
-    "titulo": "O primeiro trimestre de 2024..."
+    "titulo": "O primeiro trimestre de 2024...",
+    "subtitulo": "... sob a ótica da marcação na curva e à mercado."
   },
   {
     "id": 9,
     "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1708028538628x956902229633600900/torneira%20feveriero%2024.jpg",
     "referencia": "Fevereiro, 2024",
-    "subtitulo": "Se adaptando às novas regras",
-    "titulo": "Restrição de isentos à vista"
+    "titulo": "Restrição de isentos à vista",
+    "subtitulo": "Se adaptando às novas regras."
   },
   {
     "id": 10,
     "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1710515361634x210651496395124930/WhatsApp%20Image%202024-03-15%20at%2011.44.37.jpeg",
     "referencia": "Março, 2024",
-    "subtitulo": "Olhando para o futuro",
-    "titulo": "Lei dos mercados"
+    "titulo": "Lei dos mercados",
+    "subtitulo": "Olhando para o futuro."
   },
   {
     "id": 11,
     "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1713194402998x569776717628697400/WhatsApp%20Image%202024-04-15%20at%2012.18.59.jpeg",
     "referencia": "Abril, 2024 ",
-    "subtitulo": "Selic limitada, dólar forte",
-    "titulo": "Inflação americana e os impactos no juro brasileiro"
+    "titulo": "Inflação americana e os impactos no juro brasileiro",
+    "subtitulo": "Selic limitada, dólar forte."
   },
   {
     "id": 12,
     "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1715781224216x876010752290477200/foto%20principal.png",
     "referencia": "Maio, 2024",
-    "subtitulo": "Spread de crédito nas mínimas",
-    "titulo": "Manutenção de estratégia"
+    "titulo": "Manutenção de estratégia",
+    "subtitulo": "Spread de crédito nas mínimas."
   },
   {
     "id": 13,
     "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1718632014904x770584727415586300/foto%20carta.png",
     "referencia": "Junho, 2024",
-    "subtitulo": "Spreads baixos, cautela alta",
-    "titulo": "Mesma Taxa, Ingredientes Diferentes"
+    "titulo": "Mesma Taxa, Ingredientes Diferentes",
+    "subtitulo": "Spreads baixos, cautela alta."
   },
   {
     "id": 14,
     "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1721058467228x777816918552886000/Captura%20de%20tela%202024-07-15%20124654.png",
     "referencia": "Julho, 2024",
-    "subtitulo": "Spread fecha e a prudência segue",
-    "titulo": "Selic Estável, Mercado Agitado"
+    "titulo": "Selic Estável, Mercado Agitado",
+    "subtitulo": "Spread fecha e a prudência segue."
   },
   {
     "id": 15,
     "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1723732284084x129390582930054560/WhatsApp%20Image%202024-08-15%20at%2011.17.11.jpeg",
     "referencia": "Agosto, 2024",
-    "subtitulo": "Expectativas de corte de juros nos EUA valorizam ativos no Brasil",
-    "titulo": " \"A rising tide lifts all boats\""
+    "titulo": " \"A rising tide lifts all boats\"",
+    "subtitulo": "Expectativas de corte de juros nos EUA valorizam ativos no Brasil."
   },
   {
     "id": 16,
     "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1726496151023x530825509279172300/WhatsApp%20Image%202024-09-16%20at%2011.12.20.jpeg",
     "referencia": "Setembro, 2024",
-    "subtitulo": "Provável aumento do diferencial de juros entre Brasil x EUA",
-    "titulo": "Em sentidos opostos"
+    "titulo": "Em sentidos opostos",
+    "subtitulo": "Provável aumento do diferencial de juros entre Brasil x EUA."
   },
   {
     "id": 17,
     "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1729014267539x469645571720608060/WhatsApp%20Image%202024-10-15%20at%2014.36.55.jpeg",
     "referencia": "Outubro, 2024",
-    "subtitulo": "Garimpando ativos em um cenário de spreads reduzidos",
-    "titulo": "Além do óbvio"
+    "titulo": "Além do óbvio",
+    "subtitulo": "Garimpando ativos em um cenário de spreads reduzidos."
   },
   {
     "id": 18,
     "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1731937122091x300715601283528600/WhatsApp%20Image%202024-11-18%20at%2010.06.33.jpeg",
     "referencia": "Novembro, 2024",
-    "subtitulo": "Juros em alta, prudência na duration.",
-    "titulo": "Aguardando o pacote de corte de gastos"
+    "titulo": "Aguardando o pacote de corte de gastos",
+    "subtitulo": "Juros em alta, prudência na duration."
   },
   {
     "id": 19,
     "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1734005828902x108513283086063780/WhatsApp%20Image%202024-12-11%20at%2016.30.32.jpeg",
     "referencia": "Dezembro, 2024",
-    "subtitulo": "Se aproveitando dos preços de mercado",
-    "titulo": "Leve mudança de estratégia"
+    "titulo": "Leve mudança de estratégia",
+    "subtitulo": "Se aproveitando dos preços de mercado."
   },
   {
     "id": 20,
     "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1736955490920x216854222794837800/WhatsApp%20Image%202025-01-15%20at%2011.57.05.jpeg",
     "referencia": "Janeiro, 2025",
-    "subtitulo": "Premiando os mais céticos",
-    "titulo": "Retrospectiva 2024"
+    "titulo": "Retrospectiva 2024",
+    "subtitulo": "Premiando os mais céticos."
   },
   {
     "id": 21,
     "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1739800727558x423478004578902400/WhatsApp%20Image%202025-02-17%20at%2010.00.59.jpeg",
     "referencia": "Fevereiro, 2025",
-    "subtitulo": "Gestão ativa e leitura de mercado",
-    "titulo": "Estratégias em renda fixa"
+    "titulo": "Estratégias em renda fixa",
+    "subtitulo": "Gestão ativa e leitura de mercado."
   },
   {
     "id": 22,
     "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1742220782967x411733471956184500/WhatsApp%20Image%202025-03-17%20at%2010.28.19.jpeg",
     "referencia": "Março, 2025",
-    "subtitulo": "Comparando ativos e tributáveis isentos da forma correta.",
-    "titulo": "O Gross Up e sua relevância no cenário atual."
+    "titulo": "O Gross Up e sua relevância no cenário atual.",
+    "subtitulo": "Comparando ativos e tributáveis isentos da forma correta."
   },
   {
     "id": 23,
     "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1744722578886x261204140055559800/WhatsApp%20Image%202025-04-14%20at%2011.56.05.jpeg",
     "referencia": "Abril, 2025",
-    "subtitulo": "O investidor no Centro das Decisões",
-    "titulo": "Entre Emoção e Estratégia"
+    "titulo": "Entre Emoção e Estratégia",
+    "subtitulo": "O investidor no Centro das Decisões."
   },
   {
     "id": 24,
     "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1747258134159x572918785011946400/WhatsApp%20Image%202025-05-13%20at%2015.18.16.jpeg",
     "referencia": "Maio, 2025",
-    "subtitulo": "Por que a carteira já reflete o cenário de queda dos juros",
-    "titulo": "Nem sempre esperar é a melhor decisão"
+    "titulo": "Nem sempre esperar é a melhor decisão",
+    "subtitulo": "Por que a carteira já reflete o cenário de queda dos juros."
   },
   {
     "id": 25,
     "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1749821297785x574618105478308160/WhatsApp%20Image%202025-06-12%20at%2017.07.34.jpeg",
     "referencia": "Junho, 2025",
-    "subtitulo": "Grandes oportunidades não aparecem no conforto",
-    "titulo": "O paradoxo do bom momento"
+    "titulo": "O paradoxo do bom momento",
+    "subtitulo": "Grandes oportunidades não aparecem no conforto."
   },
   {
     "id": 26,
     "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1752509728252x648532778471423000/WhatsApp%20Image%202025-07-14%20at%2009.20.46.jpeg",
     "referencia": "Julho, 2025",
-    "subtitulo": "Como o tempo transforma disciplina em liberdade financeira.",
-    "titulo": "O poder silencioso dos juros reais compostos"
+    "titulo": "O poder silencioso dos juros reais compostos",
+    "subtitulo": "Como o tempo transforma disciplina em liberdade financeira."
   },
   {
     "id": 27,
     "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1754948594194x337869578084590400/WhatsApp%20Image%202025-08-08%20at%2009.50.58.jpeg",
     "referencia": "Agosto, 2025",
-    "subtitulo": "O custo invisível de trocar renda real por incerteza.",
-    "titulo": "Vale a pena dolarizar agora?"
+    "titulo": "Vale a pena dolarizar agora?",
+    "subtitulo": "O custo invisível de trocar renda real por incerteza."
   },
   {
     "id": 28,
     "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1757336912534x247126799042837860/WhatsApp%20Image%202025-09-08%20at%2009.31.00.jpeg",
     "referencia": "Setembro, 2025",
-    "subtitulo": "Por que excesso de liquidez pode ser uma armadilha silenciosa.",
-    "titulo": "Liquidez: segurança ou custo invisível?"
+    "titulo": "Liquidez: segurança ou custo invisível?",
+    "subtitulo": "Por que excesso de liquidez pode ser uma armadilha silenciosa."
   },
   {
     "id": 29,
     "imagem": "https://254382f3c5ad4a9ed31e186dc1b461a5.cdn.bubble.io/f1760096060430x520589511674191400/WhatsApp%20Image%202025-10-07%20at%2015.15.53.jpeg",
     "referencia": "Outubro, 2025",
-    "subtitulo": "Nem toda taxa alta é oportunidade, e nem toda taxa menor deixou de ser.",
-    "titulo": "Títulos privados: seletividade que vira renda"
+    "titulo": "Títulos privados: seletividade que vira renda",
+    "subtitulo": "Nem toda taxa alta é oportunidade, e nem toda taxa menor deixou de ser."
   }
 ]
